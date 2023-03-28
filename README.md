@@ -9,7 +9,7 @@
 
 If you're new to Flutter, the first thing you should do is visit the <a href='https://docs.flutter.dev/get-started/install'>official Flutter website</a> and follow the instructions to install Flutter on your machine. You'll also need an IDE, such as Android Studio or Visual Studio Code, to develop Flutter applications.
 
-Video Link: https://www.youtube.com/watch?v=ozyzWJxHLwY
+[Video Link:](https://www.youtube.com/watch?v=ozyzWJxHLwY)
 
 After installing flutter if you want to use VS Code then also install flutter extension in VS Code.
 
